@@ -1,6 +1,5 @@
 # DSC3D
 This is code implementation of our project "DKC3D: Denoising Skeleton for Action Recognition in the dark", which is developed based on mmaction2.
-If there are any questions, please contact me via YILUN001@e.ntu.edu.sg.
 ## Environment
 ```
 python==3.8.13
