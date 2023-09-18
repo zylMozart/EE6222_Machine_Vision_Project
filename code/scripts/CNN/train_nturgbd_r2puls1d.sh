@@ -1,0 +1,1 @@
+bash tools/dist_train.sh configs/recognition/r2plus1d/r2plus1d_r34_video_8x8x1_180e_kinetics400_rgb.py 1
